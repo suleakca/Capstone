@@ -1,2 +1,2 @@
 # Capstone
-It's capstone project for undergraduate degree.
+It's my capstone project for undergraduate degree.
